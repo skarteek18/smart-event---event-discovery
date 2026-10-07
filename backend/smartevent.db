@@ -1,0 +1,7 @@
+SmartEvent Database
+│
+├── users
+├── events
+├── bookings
+├── tickets
+└── notifications
