@@ -1,0 +1,5 @@
+frontend/
+├── package.json
+├── package-lock.json   ← automatically created
+├── index.html
+└── src/
